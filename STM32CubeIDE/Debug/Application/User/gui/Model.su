@@ -1,0 +1,3 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::updateTempData(DHT22_DataTypedef*)	0	static
+C:/TouchGFXProjects/Termometer/TouchGFX/gui/src/model/Model.cpp:10:1:Model::Model()	8	static
+C:/TouchGFXProjects/Termometer/TouchGFX/gui/src/model/Model.cpp:19:6:void Model::tick()	8	static
